@@ -9,23 +9,23 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Jinming Zhang / Personal Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Jinming Zhang"
+description              : &description "I'm a graduate student from NJUST"
 url                      : https://zjm77k.github.io/
-repository               : "academicpages/academicpages.github.io"
+repository               : "zjm77k/zjm77k.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "hub.PNG"
+  avatar           : "hub.png"
   name             : "Jinming Zhang"
   location         : "Nanjing"
   email            : "zjm@njust.edu.cn" 
-  url              : "https://zjm77k.github.io/"
+
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
