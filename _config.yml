@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "hub.jpg"
+  avatar           : "hub.JPG"
   name             : "Jinming Zhang"
   location         : "Nanjing"
   email            : "zjm@njust.edu.cn" 
