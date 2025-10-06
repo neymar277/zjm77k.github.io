@@ -10,6 +10,9 @@
 main:
   - title: "Publications"
     url: /publications/
+    
+  - title: "EDMG Project"
+    url: /edmg/
 
   - title: "Talks"
     url: /talks/    
